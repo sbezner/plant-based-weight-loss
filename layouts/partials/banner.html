@@ -1,0 +1,6 @@
+{{ $banner := .Params.banner | default .Site.Params.banner }}
+<section class="page-banner" style="background-image: url('/{{ $banner }}');">
+  <div class="page-banner-content">
+    <h1>{{ .Title }}</h1>
+  </div>
+</section>

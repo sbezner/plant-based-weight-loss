@@ -2,3 +2,22 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Plant-Based Weight Loss"
 theme = "ananke"
+contentDir = "content"
+
+[params]
+  banner = "images/salad-banner.jpg"
+  description = "Science-backed, whole-food plant-based strategies for weight loss."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Recipes"
+    url = "/recipes/"
+    weight = 3

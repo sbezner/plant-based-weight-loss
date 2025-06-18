@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+
+    <!-- Site Navigation -->
+  <header>
+    <nav class="nav-container">
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </header>
+
+    <!-- Page Banner -->
+    <div class="page-banner" style="background-image: url('/images/salad-banner.jpg')">
+      <div class="page-banner-content">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.description }}
+          <p>{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="content">
+      {{ .Content }}
+    </main>
+
+    <!-- Footer -->
+    {{ partial "site-footer.html" . }}
+
+  </body>
+</html>

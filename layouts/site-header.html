@@ -1,0 +1,10 @@
+<header style="background-color: #f8f8f8; padding: 1rem; border-bottom: 1px solid #ddd;">
+  <nav style="max-width: 960px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
+    <div><strong>{{ .Site.Title }}</strong></div>
+    <ul style="list-style: none; display: flex; gap: 1rem; margin: 0; padding: 0;">
+      {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}" style="text-decoration: none; color: #333;">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>
