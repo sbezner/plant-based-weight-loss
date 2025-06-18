@@ -9,52 +9,54 @@ menu:
 banner: "images/salad-banner.jpg"
 ---
 
-# Lose Weight Naturally With the Power of Plants
+## Lose Weight Naturally With the Power of Plants
 
-Discover science-backed, whole-food plant-based strategies for weight loss — without calorie counting or crash diets.
+Welcome to **Plant-Based Weight Loss**, where science-backed nutrition meets practical simplicity.
+
+Our goal is to help you achieve lasting weight loss using real food — not fads. This is your starting point for sustainable transformation.
 
 [Download Free 7-Day Meal Plan](/7-day-meal-plan)
 
 ---
 
-## Our Mission
+## What You’ll Learn Here
 
-At **Plant-Based Weight Loss**, we believe in empowering individuals to reach their healthiest selves using real food.  
-Our guides and recipes are designed for busy people who want practical, tasty, and lasting weight loss — all powered by plants.
-
-We’re not about fads. We’re about results that stick — because they're built on sustainable habits, real nutrition, and the power of plants.
-
----
-
-## What You'll Find Here
-
-- ✅ Simple, satisfying recipes made from whole ingredients  
-- 📚 Free guides and downloadable meal plans  
-- 🧠 Science-backed strategies rooted in nutrition research  
-- 🚫 No calorie counting, macros, or guilt  
-
-Whether you're plant-curious, fully vegan, or somewhere in between — you're welcome here.
+- ✅ How to lose weight without calorie counting or crash diets  
+- 🥦 The power of whole-food, plant-based eating  
+- 📚 Evidence-based strategies for sustainable health  
+- 🧠 Mindset tools to stay motivated and consistent  
 
 ---
 
-## Popular Reads
+## Featured Content
 
-- 🥗 [7-Day Plant-Based Meal Plan](/posts/7-day-meal-plan/)  
-  A complete day-by-day breakdown of meals to jumpstart your journey
+### 🥗 [7-Day Plant-Based Meal Plan](/posts/7-day-meal-plan/)
+A complete, practical day-by-day guide for meals that support fat loss, energy, and balance.
 
-- 🔍 [Vegan Weight Loss Mistakes](/posts/vegan-weight-loss-mistakes/)  
-  Common pitfalls that sabotage plant-based weight loss — and how to fix them
+### 🔍 [Top Vegan Weight Loss Mistakes](/posts/vegan-weight-loss-mistakes/)
+Avoid the common traps that hold people back from results on a plant-based diet.
 
-- ⚖️ [Plant-Based vs Keto](/posts/plant-vs-keto/)  
-  We compare two of the most popular diets. One is built for life, the other for a sprint.
+### ⚖️ [Plant-Based vs Keto: Which Wins?](/posts/plant-vs-keto/)
+We stack up the science and long-term sustainability of two popular eating styles.
 
 ---
 
-## Real Results
+## Real Success Stories
 
 > “I’ve tried every diet out there — this was the first time I felt satisfied, energized, and actually saw results.”  
-> <span>– Jamie R., Down 28 lbs in 3 months</span>
+> – Jamie R., Down 28 lbs in 3 months
 
 ---
 
-Thanks for visiting. Let’s lose weight the healthy way — for good.
+## Why It Works
+
+This approach is based on:
+
+- 🍠 Fiber-rich, satisfying meals  
+- 🧬 Anti-inflammatory whole foods  
+- 🥬 Natural appetite regulation  
+- 🍇 Zero tracking, zero guilt  
+
+Let’s get started — the healthy way.
+
+---
