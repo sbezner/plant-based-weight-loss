@@ -8,13 +8,12 @@ contentDir = "content"
   banner = "images/salad-banner.jpg"
   description = "Science-backed, whole-food plant-based strategies for weight loss."
 
-[menu]
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    name = "Recipes"
-    url = "/recipes/"
-    weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  name = "Recipes"
+  url = "/recipes/"
+  weight = 3

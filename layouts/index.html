@@ -1,43 +1,11 @@
 {{ define "main" }}
-  {{ partial "banner.html" . }}
+  <section class="page-banner" style="background-image: url('{{ .Params.banner | relURL }}');">
+    <div class="page-banner-content">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </section>
 
   <main class="content">
-    <section class="content-section">
-      <div class="container center">
-        <h2>Our Mission</h2>
-        <p>
-          At <strong>Plant-Based Weight Loss</strong>, we believe in empowering individuals to reach their healthiest selves using real food.
-          Our guides and recipes are designed for busy people who want practical, tasty, and lasting weight loss — all powered by plants.
-        </p>
-      </div>
-    </section>
-
-    <section class="content-section alt">
-      <div class="container">
-        <h2 class="center">Popular Reads</h2>
-        <div class="card-grid">
-          <div class="card">
-            <h3><a href="/posts/7-day-meal-plan/">🥗 7-Day Plant-Based Meal Plan</a></h3>
-            <p>A complete day-by-day breakdown of meals to jumpstart your journey</p>
-          </div>
-          <div class="card">
-            <h3><a href="/posts/vegan-weight-loss-mistakes/">🔍 Vegan Diet Mistakes</a></h3>
-            <p>Common pitfalls that sabotage plant-based weight loss — and how to fix them</p>
-          </div>
-          <div class="card">
-            <h3><a href="/posts/plant-vs-keto/">⚖️ Plant-Based vs Keto</a></h3>
-            <p>We compare two of the most popular diets. One is built for life, the other for a sprint.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="content-section quote">
-      <blockquote>
-        “I’ve tried every diet out there — this was the first time I felt satisfied, energized, and actually saw results.”
-        <span>– Jamie R., Down 28 lbs in 3 months</span>
-      </blockquote>
-    </section>
+    {{ .Content }}
   </main>
 {{ end }}
-
