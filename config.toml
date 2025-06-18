@@ -9,10 +9,7 @@ contentDir = "content"
   description = "Science-backed, whole-food plant-based strategies for weight loss."
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+
   [[menu.main]]
     name = "About"
     url = "/about/"
